@@ -1,0 +1,287 @@
+Indicator,S.No.,Parameters,Type,SubDistrict-_Kodagu-Total [(A+B) or (C+D)],SubDistrict-_Kodagu-Public [A],SubDistrict-_Kodagu-Private [B],SubDistrict-_Kodagu-Urban [C],SubDistrict-_Kodagu-Rural [D],SubDistrict-Madikeri-Total [(A+B) or (C+D)],SubDistrict-Madikeri-Public [A],SubDistrict-Madikeri-Private [B],SubDistrict-Madikeri-Urban [C],SubDistrict-Madikeri-Rural [D],SubDistrict-Somwarpet-Total [(A+B) or (C+D)],SubDistrict-Somwarpet-Public [A],SubDistrict-Somwarpet-Private [B],SubDistrict-Somwarpet-Urban [C],SubDistrict-Somwarpet-Rural [D],SubDistrict-Virajpet-Total [(A+B) or (C+D)],SubDistrict-Virajpet-Public [A],SubDistrict-Virajpet-Private [B],SubDistrict-Virajpet-Urban [C],SubDistrict-Virajpet-Rural [D]
+M1 [Ante Natal Care (ANC)],1.1,Total number of pregnant women registered for ANC,TOTAL,712,712,0,42,670,171,171,0,42,129,256,256,0,0,256,285,285,0,0,285
+M1 [Ante Natal Care (ANC)],1.1.1,"Out of the total ANC registered, number registered within 1st trimester (within 12 weeks)",TOTAL,547,547,0,32,515,144,144,0,32,112,220,220,0,0,220,183,183,0,0,183
+M1 [Ante Natal Care (ANC)],1.2.1,Number of PW given TT1,TOTAL,639,619,20,46,593,192,177,15,41,151,216,211,5,5,211,231,231,0,0,231
+M1 [Ante Natal Care (ANC)],1.2.2,Number of PW given TT2,TOTAL,597,583,14,41,556,190,178,12,39,151,188,186,2,2,186,219,219,0,0,219
+M1 [Ante Natal Care (ANC)],1.2.3,Number of PW given TT Booster,TOTAL,83,83,0,5,78,21,21,0,5,16,36,36,0,0,36,26,26,0,0,26
+M1 [Ante Natal Care (ANC)],1.2.4,Number of PW given 180 Iron Folic Acid (IFA) tablets,TOTAL,644,644,0,32,612,165,165,0,32,133,231,231,0,0,231,248,248,0,0,248
+M1 [Ante Natal Care (ANC)],1.2.5,Number of PW given 360 Calcium tablets,TOTAL,756,756,0,31,725,178,178,0,31,147,222,222,0,0,222,356,356,0,0,356
+M1 [Ante Natal Care (ANC)],1.2.6,Number of PW given one Albendazole tablet after 1st trimester,TOTAL,654,654,0,27,627,140,140,0,27,113,207,207,0,0,207,307,307,0,0,307
+M1 [Ante Natal Care (ANC)],1.2.7,Number of PW received 4 or more ANC check ups,TOTAL,641,641,0,31,610,173,173,0,31,142,274,274,0,0,274,194,194,0,0,194
+M1 [Ante Natal Care (ANC)],1.2.8,Number of PW given ANC Corticosteroids in Pre Term Labour,TOTAL,30,30,0,0,30,28,28,0,0,28,0,0,0,0,0,2,2,0,0,2
+M1 [Ante Natal Care (ANC)],1.3.1,New cases of PW with hypertension detected,TOTAL,15,15,0,0,15,6,6,0,0,6,1,1,0,0,1,8,8,0,0,8
+M1 [Ante Natal Care (ANC)],1.3.1.a,"Out of the new cases of PW with hypertension detected, cases managed at institution",TOTAL,13,13,0,0,13,5,5,0,0,5,0,0,0,0,0,8,8,0,0,8
+M1 [Ante Natal Care (ANC)],1.3.2,Number of Eclampsia cases managed during delivery,TOTAL,8,8,0,0,8,8,8,0,0,8,0,0,0,0,0,0,0,0,0,0
+M1 [Ante Natal Care (ANC)],1.4.1,Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs,TOTAL,1236,1236,0,10,1226,480,480,0,10,470,623,623,0,0,623,133,133,0,0,133
+M1 [Ante Natal Care (ANC)],1.4.2,Number of PW having Hb level<11 (tested cases)(7.1 to 10.9),TOTAL,572,566,6,35,537,252,246,6,35,217,212,212,0,0,212,108,108,0,0,108
+M1 [Ante Natal Care (ANC)],1.4.3,Number of PW having Hb level<7 (tested cases),TOTAL,25,25,0,0,25,8,8,0,0,8,10,10,0,0,10,7,7,0,0,7
+M1 [Ante Natal Care (ANC)],1.4.4,Number of PW having severe anaemia (Hb<7) treated,TOTAL,10,10,0,0,10,6,6,0,0,6,2,2,0,0,2,2,2,0,0,2
+M1 [Ante Natal Care (ANC)],1.5.1,Number of PW tested for blood sugar using OGTT (Oral Glucose Tolerance Test),TOTAL,11,11,0,0,11,0,0,0,0,0,1,1,0,0,1,10,10,0,0,10
+M1 [Ante Natal Care (ANC)],1.5.2,Number of PW tested positive for GDM,TOTAL,3,3,0,0,3,0,0,0,0,0,1,1,0,0,1,2,2,0,0,2
+M1 [Ante Natal Care (ANC)],1.5.3,Number of PW given insulin out of total tested positive for GDM,TOTAL,4,4,0,0,4,3,3,0,0,3,0,0,0,0,0,1,1,0,0,1
+M1 [Ante Natal Care (ANC)],1.6.1.a,Number of PW tested using POC test for Syphilis,TOTAL,0,0,NA,NA,0,0,0,NA,NA,0,0,0,NA,NA,0,0,0,NA,NA,0
+M1 [Ante Natal Care (ANC)],1.6.1.b,"Out of above, number of PW found sero positive for syphilis",TOTAL,0,0,NA,NA,0,0,0,NA,NA,0,0,0,NA,NA,0,0,0,NA,NA,0
+M1 [Ante Natal Care (ANC)],1.6.2.a,Number of pregnant women tested for Syphilis,TOTAL,573,573,0,42,531,99,99,0,42,57,181,181,0,0,181,293,293,0,0,293
+M1 [Ante Natal Care (ANC)],1.6.2.b,Number of pregnant women tested found sero positive for Syphilis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M1 [Ante Natal Care (ANC)],1.6.2.c,Number of syphilis positive pregnant women treated for Syphilis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M1 [Ante Natal Care (ANC)],1.6.2.d,Number of babies diagnosed with Congenital Syphilis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M1 [Ante Natal Care (ANC)],1.6.2.e,Number of babies treated for congenital Syphilis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M2 [Deliveries],2.1.1.a,Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM),TOTAL,0,0,NA,0,0,0,0,NA,0,0,0,0,NA,NA,0,0,0,NA,NA,0
+M2 [Deliveries],2.1.1.b,Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.),TOTAL,3,3,NA,0,3,0,0,NA,0,0,0,0,NA,NA,0,3,3,NA,NA,3
+M2 [Deliveries],2.1.2,Number of PW given Tablet Misoprostol during home delivery,TOTAL,1,1,NA,0,1,0,0,NA,0,0,0,0,NA,NA,0,1,1,NA,NA,1
+M2 [Deliveries],2.1.3,Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery,TOTAL,0,0,NA,0,0,0,0,NA,0,0,0,0,NA,NA,0,0,0,NA,NA,0
+M2 [Deliveries],2.2,Number of Institutional Deliveries conducted (Including C-Sections),TOTAL,607,538,69,69,538,344,310,34,34,310,54,54,0,0,54,209,174,35,35,174
+M2 [Deliveries],2.2.1,Out of total institutional deliveries number of women discharged within 48 hours of delivery,TOTAL,31,31,0,0,31,16,16,0,0,16,4,4,0,0,4,11,11,0,0,11
+M2 [Deliveries],2.2.2,Number of newborns received 6 HBNC  visits after Institutional Delivery,TOTAL,31,31,0,0,31,0,0,0,0,0,24,24,0,0,24,7,7,0,0,7
+M3 [Number of Caesarean (C-Section) deliveries],3.1,Total C -Section deliveries performed,TOTAL,133,101,32,32,101,79,64,15,15,64,3,3,0,0,3,51,34,17,17,34
+M3 [Number of Caesarean (C-Section) deliveries],3.1.1,"C-sections, performed at night (8 PM- 8 AM)",TOTAL,29,29,0,0,29,25,25,0,0,25,0,0,0,0,0,4,4,0,0,4
+M4 [Pregnancy outcome & details of new-born],4.1.1.a,Live Birth - Male,TOTAL,306,272,34,34,272,179,158,21,21,158,27,27,0,0,27,100,87,13,13,87
+M4 [Pregnancy outcome & details of new-born],4.1.1.b,Live Birth - Female,TOTAL,302,267,35,35,267,163,150,13,13,150,27,27,0,0,27,112,90,22,22,90
+M4 [Pregnancy outcome & details of new-born],4.1.2,Number of Pre term newborns ( < 37 weeks of pregnancy),TOTAL,21,21,0,0,21,14,14,0,0,14,2,2,0,0,2,5,5,0,0,5
+M4 [Pregnancy outcome & details of new-born],4.1.3,Still Birth,TOTAL,4,4,0,0,4,3,3,0,0,3,0,0,0,0,0,1,1,0,0,1
+M4 [Pregnancy outcome & details of new-born],4.2,Abortion (spontaneous),TOTAL,50,47,3,3,47,26,23,3,3,23,7,7,0,0,7,17,17,0,0,17
+M4 [Pregnancy outcome & details of new-born],4.3.1.a,MTP up to 12 weeks of pregnancy,TOTAL,11,10,1,1,10,4,3,1,1,3,2,2,0,0,2,5,5,0,0,5
+M4 [Pregnancy outcome & details of new-born],4.3.1.b,MTP more than 12 weeks of pregnancy,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M4 [Pregnancy outcome & details of new-born],4.3.2.a,Post Abortion/ MTP Complications Identified,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M4 [Pregnancy outcome & details of new-born],4.3.2.b,Post Abortion/ MTP Complications Treated,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M4 [Pregnancy outcome & details of new-born],4.3.3,Number of women provided with post abortion/ MTP contraception,TOTAL,3,0,3,3,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0
+M4 [Pregnancy outcome & details of new-born],4.4.1,Number of newborns weighed at birth,TOTAL,608,539,69,69,539,342,308,34,34,308,54,54,0,0,54,212,177,35,35,177
+M4 [Pregnancy outcome & details of new-born],4.4.2,Number of newborns having weight less than 2.5 kg,TOTAL,42,41,1,1,41,14,13,1,1,13,3,3,0,0,3,25,25,0,0,25
+M4 [Pregnancy outcome & details of new-born],4.4.3,Number of Newborns breast fed within 1 hour of birth ,TOTAL,593,524,69,69,524,332,298,34,34,298,54,54,0,0,54,207,172,35,35,172
+M5 [Complicated Pregnancies],5.1,"Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others)",TOTAL,20,19,1,1,19,10,9,1,1,9,0,0,0,0,0,10,10,0,0,10
+M5 [Complicated Pregnancies],5.2,Number of Complicated pregnancies treated with Blood Transfusion,TOTAL,4,3,1,1,3,4,3,1,1,3,0,0,0,0,0,0,0,0,0,0
+M6 [Post Natal Care (PNC)],6.1,Women receiving 1st post partum checkup within 48 hours of home delivery,TOTAL,4,4,0,0,4,0,0,0,0,0,1,1,0,0,1,3,3,0,0,3
+M6 [Post Natal Care (PNC)],6.2,Women receiving 1st post partum checkup between 48 hours and 14 days,TOTAL,759,725,34,34,725,437,403,34,34,403,136,136,0,0,136,186,186,0,0,186
+M6 [Post Natal Care (PNC)],6.3,Number of mothers provided full course of 180 IFA tablets after delivery,TOTAL,569,535,34,34,535,118,84,34,34,84,169,169,0,0,169,282,282,0,0,282
+M6 [Post Natal Care (PNC)],6.4,Number of mothers provided 360 Calcium tablets after delivery,TOTAL,501,467,34,34,467,115,81,34,34,81,150,150,0,0,150,236,236,0,0,236
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],7.1.1,New RTI/STI cases identified - Male,TOTAL,64,54,10,10,54,4,4,0,0,4,33,23,10,10,23,27,27,0,0,27
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],7.1.2,New RTI/STI cases identified - Female,TOTAL,159,156,3,11,148,37,37,0,8,29,52,49,3,3,49,70,70,0,0,70
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],7.2.1,RTI/STI for which treatment initiated - Male,TOTAL,45,45,0,0,45,4,4,0,0,4,16,16,0,0,16,25,25,0,0,25
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],7.2.2,RTI/STI for which treatment initiated -Female,TOTAL,146,146,0,8,138,37,37,0,8,29,39,39,0,0,39,70,70,0,0,70
+M8 [Family Planning],8.1.1,Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted,TOTAL,9,9,0,0,9,1,1,0,0,1,5,5,0,0,5,3,3,0,0,3
+M8 [Family Planning],8.2.1,Number of Laparoscopic sterilizations (excluding post abortion) conducted,TOTAL,118,117,1,1,117,18,18,0,0,18,50,50,0,0,50,50,49,1,1,49
+M8 [Family Planning],8.2.2,Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted,TOTAL,15,15,0,0,15,3,3,0,0,3,11,11,0,0,11,1,1,0,0,1
+M8 [Family Planning],8.2.3,Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted,TOTAL,36,32,4,4,32,20,18,2,2,18,3,3,0,0,3,13,11,2,2,11
+M8 [Family Planning],8.2.4,Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0
+M8 [Family Planning],8.3,Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD),TOTAL,79,73,6,9,70,14,14,0,3,11,37,37,0,0,37,28,22,6,6,22
+M8 [Family Planning],8.4,Number of Postpartum (within 48 hours of delivery) IUCD insertions,TOTAL,108,108,0,0,108,75,75,0,0,75,4,4,0,0,4,29,29,0,0,29
+M8 [Family Planning],8.5,Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.6,Number of IUCD Removals,TOTAL,46,39,7,7,39,15,8,7,7,8,25,25,0,0,25,6,6,0,0,6
+M8 [Family Planning],8.7,Number of complications following IUCD Insertion,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.8,Injectable Contraceptive-Antara Program- First Dose,TOTAL,8,8,0,2,6,8,8,0,2,6,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.9,Injectable Contraceptive-Antara Program- Second Dose,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.1,Injectable Contraceptive-Antara Program- Third Dose,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.11,Injectable Contraceptive-Antara Program- Fourth or more than fourth,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.12,Number of Combined Oral Pill cycles distributed,TOTAL,3326,3326,0,125,3201,678,678,0,125,553,1527,1527,0,0,1527,1121,1121,0,0,1121
+M8 [Family Planning],8.13,Number of Condom pieces distributed,TOTAL,37117,37117,0,2100,35017,12161,12161,0,2100,10061,9313,9313,0,0,9313,15643,15643,0,0,15643
+M8 [Family Planning],8.14,Number of Centchroman (weekly) pill strips distributed,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.15,Number of Emergency Contraceptive Pills (ECP) given,TOTAL,92,92,0,0,92,39,39,0,0,39,44,44,0,0,44,9,9,0,0,9
+M8 [Family Planning],8.16,Number of Pregnancy Test Kits (PTK) used,TOTAL,998,998,0,55,943,245,245,0,55,190,283,283,0,0,283,470,470,0,0,470
+M8 [Family Planning],8.17.1,Complications following male sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.17.2,Complications following female sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.17.3,Failures following male sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.17.4,Failures following female sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.17.5,Deaths following male sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M8 [Family Planning],8.17.6,Deaths following female sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.1,Child immunisation - Vitamin K1 (Birth Dose),TOTAL,601,532,69,69,532,342,308,34,34,308,50,50,0,0,50,209,174,35,35,174
+M9 [CHILD IMMUNISATION],9.1.2,Child immunisation - BCG,TOTAL,662,597,65,65,597,346,316,30,30,316,55,55,0,0,55,261,226,35,35,226
+M9 [CHILD IMMUNISATION],9.1.3,Child immunisation - DPT1,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.4,Child immunisation - DPT2,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.5,Child immunisation - DPT3,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.6,Child immunisation - Pentavalent 1,TOTAL,751,731,20,49,702,240,220,20,49,191,241,241,0,0,241,270,270,0,0,270
+M9 [CHILD IMMUNISATION],9.1.7,Child immunisation - Pentavalent 2,TOTAL,701,684,17,33,668,218,201,17,33,185,241,241,0,0,241,242,242,0,0,242
+M9 [CHILD IMMUNISATION],9.1.8,Child immunisation - Pentavalent 3,TOTAL,638,622,16,41,597,173,157,16,41,132,231,231,0,0,231,234,234,0,0,234
+M9 [CHILD IMMUNISATION],9.1.9,Child immunisation - OPV 0 (Birth Dose),TOTAL,603,538,65,65,538,337,307,30,30,307,52,52,0,0,52,214,179,35,35,179
+M9 [CHILD IMMUNISATION],9.1.10,Child immunisation - OPV1,TOTAL,750,730,20,49,701,239,219,20,49,190,241,241,0,0,241,270,270,0,0,270
+M9 [CHILD IMMUNISATION],9.1.11,Child immunisation - OPV2,TOTAL,698,681,17,33,665,217,200,17,33,184,241,241,0,0,241,240,240,0,0,240
+M9 [CHILD IMMUNISATION],9.1.12,Child immunisation - OPV3,TOTAL,637,621,16,41,596,173,157,16,41,132,231,231,0,0,231,233,233,0,0,233
+M9 [CHILD IMMUNISATION],9.1.13,Child immunisation - Hepatitis-B0 (Birth Dose),TOTAL,562,527,35,35,527,304,304,0,0,304,52,52,0,0,52,206,171,35,35,171
+M9 [CHILD IMMUNISATION],9.1.14,Child immunisation - Hepatitis-B1,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.15,Child immunisation - Hepatitis-B2,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.16,Child immunisation - Hepatitis-B3,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.17,Child immunisation - Inactivated Polio Vaccine 1 (IPV 1),TOTAL,641,625,16,45,596,199,183,16,45,154,212,212,0,0,212,230,230,0,0,230
+M9 [CHILD IMMUNISATION],9.1.18,Child immunisation - Inactivated Polio Vaccine 2 (IPV 2),TOTAL,528,508,20,45,483,146,126,20,45,101,204,204,0,0,204,178,178,0,0,178
+M9 [CHILD IMMUNISATION],9.1.19,Child immunisation - Rotavirus 1,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.20,Child immunisation - Rotavirus 2,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.1.21,Child immunisation - Rotavirus 3,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.2.1,Child immunisation (9-11months) - Measles & Rubella (MR)- 1st Dose,TOTAL,655,655,0,33,622,212,212,0,33,179,216,216,0,0,216,227,227,0,0,227
+M9 [CHILD IMMUNISATION],9.2.2,Child immunisation (9-11months) - Measles 1st dose,TOTAL,126,126,0,0,126,8,8,0,0,8,33,33,0,0,33,85,85,0,0,85
+M9 [CHILD IMMUNISATION],9.2.3,Child immunisation (9-11months) - JE 1st dose,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.2.4.a,Children aged between 9 and 11 months fully immunized- Male,TOTAL,363,363,0,10,353,101,101,0,10,91,116,116,0,0,116,146,146,0,0,146
+M9 [CHILD IMMUNISATION],9.2.4.b,Children aged between 9 and 11 months fully immunized - Female,TOTAL,381,381,0,23,358,109,109,0,23,86,122,122,0,0,122,150,150,0,0,150
+M9 [CHILD IMMUNISATION],9.3.1,Child immunisation - Measles & Rubella (MR)- 1st Dose,TOTAL,9,9,0,0,9,0,0,0,0,0,4,4,0,0,4,5,5,0,0,5
+M9 [CHILD IMMUNISATION],9.3.2,Child immunisation - Measles-1st dose,TOTAL,15,15,0,0,15,0,0,0,0,0,1,1,0,0,1,14,14,0,0,14
+M9 [CHILD IMMUNISATION],9.3.3,Child immunisation - JE 1st dose,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.4.1,Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months),TOTAL,808,808,0,31,777,212,212,0,31,181,322,322,0,0,322,274,274,0,0,274
+M9 [CHILD IMMUNISATION],9.4.2,Child immunisation - Measles 2nd dose (More than 16 months),TOTAL,2,2,0,0,2,0,0,0,0,0,2,2,0,0,2,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.4.3,Child immunisation - DPT 1st Booster,TOTAL,803,803,0,31,772,212,212,0,31,181,313,313,0,0,313,278,278,0,0,278
+M9 [CHILD IMMUNISATION],9.4.4,Child immunisation - OPV Booster,TOTAL,807,807,0,31,776,212,212,0,31,181,313,313,0,0,313,282,282,0,0,282
+M9 [CHILD IMMUNISATION],9.4.5,"Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine",TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.4.6,Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.5.1,Child immunisation - Typhoid,TOTAL,5,0,5,5,0,5,0,5,5,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.5.2,Children more than 5 years received DPT5 (2nd Booster),TOTAL,447,445,2,2,445,142,140,2,2,140,220,220,0,0,220,85,85,0,0,85
+M9 [CHILD IMMUNISATION],9.5.3,Children more than 10 years received TT10,TOTAL,871,871,0,0,871,312,312,0,0,312,428,428,0,0,428,131,131,0,0,131
+M9 [CHILD IMMUNISATION],9.5.4,Children more than 16 years received TT16,TOTAL,810,809,1,1,809,474,473,1,1,473,223,223,0,0,223,113,113,0,0,113
+M9 [CHILD IMMUNISATION],9.6.1,Number of cases of AEFI - Abscess,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.6.2,Number of cases of AEFI - Death,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [CHILD IMMUNISATION],9.6.3,Number of cases of AEFI - Others,TOTAL,158,158,0,11,147,87,87,0,11,76,52,52,0,0,52,19,19,0,0,19
+M9 [CHILD IMMUNISATION],9.7.1,Immunisation sessions planned,TOTAL,379,379,0,4,375,107,107,0,4,103,137,137,0,0,137,135,135,0,0,135
+M9 [CHILD IMMUNISATION],9.7.2,Immunisation sessions held,TOTAL,375,375,0,4,371,107,107,0,4,103,133,133,0,0,133,135,135,0,0,135
+M9 [CHILD IMMUNISATION],9.7.3,Number of Immunisation sessions where ASHAs were present,TOTAL,297,297,0,4,293,74,74,0,4,70,124,124,0,0,124,99,99,0,0,99
+M9 [CHILD IMMUNISATION],9.8.1,Child immunisation - Vitamin A Dose - 1,TOTAL,834,834,0,33,801,220,220,0,33,187,304,304,0,0,304,310,310,0,0,310
+M9 [CHILD IMMUNISATION],9.8.2,Child immunisation - Vitamin A Dose - 5,TOTAL,6705,6705,0,0,6705,1346,1346,0,0,1346,3378,3378,0,0,3378,1981,1981,0,0,1981
+M9 [CHILD IMMUNISATION],9.8.3,Child immunisation - Vitamin A Dose - 9,TOTAL,5893,5893,0,0,5893,1229,1229,0,0,1229,2959,2959,0,0,2959,1705,1705,0,0,1705
+M9 [CHILD IMMUNISATION],9.9,Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly),TOTAL,456,456,NA,0,456,141,141,NA,0,141,197,197,NA,NA,197,118,118,NA,NA,118
+M9 [CHILD IMMUNISATION],9.1,Number of children (12-59 months) provided Albendazole,TOTAL,92,92,0,0,92,7,7,0,0,7,0,0,0,0,0,85,85,0,0,85
+M9 [CHILD IMMUNISATION],9.11,Number of severely underweight children provided Health Checkup (0-5 yrs),TOTAL,50,50,0,0,50,32,32,0,0,32,4,4,0,0,4,14,14,0,0,14
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.1,Childhood Diseases - Pneumonia,TOTAL,18,16,2,2,16,16,14,2,2,14,1,1,0,0,1,1,1,0,0,1
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.2,Childhood Diseases - Asthma,TOTAL,28,21,7,7,21,24,17,7,7,17,1,1,0,0,1,3,3,0,0,3
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.3,Childhood Diseases - Sepsis,TOTAL,5,5,0,0,5,5,5,0,0,5,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.4,Childhood Diseases - Diphtheria,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.5,Childhood Diseases - Pertussis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.6,Childhood Diseases - Tetanus Neonatorum,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.7,Childhood Diseases - Tuberculosis (TB),TOTAL,5,5,0,0,5,5,5,0,0,5,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.8,Childhood Diseases - Acute Flaccid Paralysis(AFP),TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.9,Childhood Diseases - Measles,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.1,Childhood Diseases - Malaria,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.11,Childhood Diseases - Diarrhoea,TOTAL,136,130,6,10,126,94,88,6,10,84,17,17,0,0,17,25,25,0,0,25
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.12,Childhood Diseases - Diarrhoea treated in Inpatients,TOTAL,26,12,14,14,12,20,6,14,14,6,0,0,0,0,0,6,6,0,0,6
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.13,Children admitted with upper respiratory infections,TOTAL,12,12,0,0,12,3,3,0,0,3,0,0,0,0,0,9,9,0,0,9
+M10 [Number of cases of Childhood Diseases (0-5 years)],10.14,Childhood Diseases - Severe Acute Malnutrition (SAM),TOTAL,10,10,0,0,10,10,10,0,0,10,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.1.1.a,Total Blood Smears Examined for Malaria,TOTAL,9608,9606,2,103,9505,1796,1794,2,103,1693,3881,3881,0,0,3881,3931,3931,0,0,3931
+M11 [NVBDCP],11.1.1.b,Malaria (Microscopy Tests ) - Plasmodium Vivax test positive,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.1.1.c,Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.1.2.a,RDT conducted for Malaria,TOTAL,141,56,85,85,56,85,0,85,85,0,52,52,NA,NA,52,4,4,0,0,4
+M11 [NVBDCP],11.1.2.b,Malaria (RDT) - Plasmodium Vivax test positive,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.1.2.c,Malaria (RDT) - Plamodium Falciparum test positive,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.2.1,Kala Azar (RDT) - Tests Conducted,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.2.2,Kala Azar Positive Cases,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.2.3,Post-kala-azar dermal leishmaniasis (PKDL) cases,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.3.1,Dengue - RDT Test Positive,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.3.2,Dengue - Enzyme- Linked Immuno Sorbent Assay (ELISA) Test Positive,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.4.1,Tests Conducted for JE,TOTAL,30,0,30,30,0,30,0,30,30,0,0,0,0,0,0,0,0,0,0,0
+M11 [NVBDCP],11.4.2,Tests Positive for JE,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M12 [Adolscent Health],12.1.1.a,Girls registered in AFHC,TOTAL,237,237,0,26,211,86,86,0,26,60,81,81,0,0,81,70,70,0,0,70
+M12 [Adolscent Health],12.1.1.b,Boys registered in AFHC,TOTAL,196,196,0,16,180,74,74,0,16,58,59,59,0,0,59,63,63,0,0,63
+M12 [Adolscent Health],12.1.2.a,"Out of registered, Girls received clinical services",TOTAL,155,155,0,26,129,52,52,0,26,26,39,39,0,0,39,64,64,0,0,64
+M12 [Adolscent Health],12.1.2.b,"Out of registered, Boys received clinical services",TOTAL,140,140,0,16,124,56,56,0,16,40,21,21,0,0,21,63,63,0,0,63
+M12 [Adolscent Health],12.1.3.a,"Out of registered, Girls received counselling",TOTAL,171,171,0,26,145,63,63,0,26,37,55,55,0,0,55,53,53,0,0,53
+M12 [Adolscent Health],12.1.3.b,"Out of registered, Boys received counselling",TOTAL,150,150,0,16,134,56,56,0,16,40,39,39,0,0,39,55,55,0,0,55
+"M13 [Directly Observed Treatment, Short-course (DOTS)]",13.1,Number of on-going DOTS patients registered,TOTAL,81,81,0,7,74,10,10,0,7,3,36,36,0,0,36,35,35,0,0,35
+"M13 [Directly Observed Treatment, Short-course (DOTS)]",13.2,Number of DOTS cases completed successfully,TOTAL,13,13,0,3,10,4,4,0,3,1,5,5,0,0,5,4,4,0,0,4
+M14 [Patient Services],14.1.1,Outpatient - Diabetes,TOTAL,2291,2130,161,191,2100,1006,862,144,174,832,603,586,17,17,586,682,682,0,0,682
+M14 [Patient Services],14.1.2,Outpatient - Hypertension,TOTAL,3480,3354,126,171,3309,1271,1150,121,166,1105,1083,1078,5,5,1078,1126,1126,0,0,1126
+M14 [Patient Services],14.1.3,Outpatient - Stroke (Paralysis),TOTAL,45,35,10,10,35,12,2,10,10,2,15,15,0,0,15,18,18,0,0,18
+M14 [Patient Services],14.1.4,Outpatient - Acute Heart Diseases,TOTAL,105,98,7,7,98,23,16,7,7,16,51,51,0,0,51,31,31,0,0,31
+M14 [Patient Services],14.1.5,Outpatient - Mental illness,TOTAL,536,536,0,0,536,393,393,0,0,393,80,80,0,0,80,63,63,0,0,63
+M14 [Patient Services],14.1.6,Outpatient - Epilepsy,TOTAL,150,149,1,2,148,19,18,1,2,17,39,39,0,0,39,92,92,0,0,92
+M14 [Patient Services],14.1.7,Outpatient - Ophthalmic Related,TOTAL,2729,2729,0,25,2704,1817,1817,0,25,1792,406,406,0,0,406,506,506,0,0,506
+M14 [Patient Services],14.1.8,Outpatient - Dental,TOTAL,1724,1587,137,167,1557,759,622,137,167,592,305,305,0,0,305,660,660,0,0,660
+M14 [Patient Services],14.1.9,Outpatient - Oncology,TOTAL,4,4,0,0,4,0,0,0,0,0,1,1,0,0,1,3,3,0,0,3
+M14 [Patient Services],14.2.1,Allopathic- Outpatient attendance,TOTAL,107728,104372,3356,3847,103881,46372,43516,2856,3347,43025,30112,29612,500,500,29612,31244,31244,0,0,31244
+M14 [Patient Services],14.2.2,Ayush - Outpatient attendance,TOTAL,664,664,0,0,664,394,394,0,0,394,270,270,0,0,270,0,0,0,0,0
+M14 [Patient Services],14.3.1.a,Inpatient (Male)- Children<18yrs,TOTAL,212,194,18,18,194,139,121,18,18,121,26,26,0,0,26,47,47,0,0,47
+M14 [Patient Services],14.3.1.b,Inpatient (Male)- Adults,TOTAL,1400,1367,33,33,1367,873,840,33,33,840,301,301,0,0,301,226,226,0,0,226
+M14 [Patient Services],14.3.2.a,Inpatient (Female)- Children<18yrs,TOTAL,206,190,16,16,190,129,113,16,16,113,32,32,0,0,32,45,45,0,0,45
+M14 [Patient Services],14.3.2.b,Inpatient (Female)- Adults,TOTAL,1853,1763,90,90,1763,868,778,90,90,778,523,523,0,0,523,462,462,0,0,462
+M14 [Patient Services],14.3.3,Number of Left Against Medical Advice (LAMA) cases,TOTAL,55,55,0,0,55,29,29,0,0,29,26,26,0,0,26,0,0,0,0,0
+M14 [Patient Services],14.4.1,Inpatient - Malaria,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.4.2,Inpatient - Dengue,TOTAL,2,2,0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.4.3,Inpatient - Typhoid,TOTAL,55,55,0,0,55,22,22,0,0,22,5,5,0,0,5,28,28,0,0,28
+M14 [Patient Services],14.4.4,"Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections",TOTAL,155,83,72,72,83,86,14,72,72,14,7,7,NA,NA,7,62,62,0,0,62
+M14 [Patient Services],14.4.5,Inpatient - Tuberculosis,TOTAL,54,54,0,0,54,52,52,0,0,52,0,0,NA,NA,0,2,2,0,0,2
+M14 [Patient Services],14.4.6,Inpatient - Pyrexia of unknown origin (PUO),TOTAL,210,197,13,13,197,54,41,13,13,41,133,133,0,0,133,23,23,0,0,23
+M14 [Patient Services],14.4.7,Inpatient - Diarrhea with dehydration,TOTAL,71,66,5,5,66,39,34,5,5,34,28,28,0,0,28,4,4,0,0,4
+M14 [Patient Services],14.4.8,Inpatient - Hepatitis,TOTAL,1654,1654,0,0,1654,1653,1653,0,0,1653,0,0,0,0,0,1,1,0,0,1
+M14 [Patient Services],14.5,Patients registered at Emergency Department,TOTAL,754,754,0,0,754,115,115,0,0,115,0,0,0,0,0,639,639,0,0,639
+M14 [Patient Services],14.6.1,"Emergency - Trauma ( accident, injury, poisoning etc)",TOTAL,176,175,1,1,175,59,58,1,1,58,50,50,0,0,50,67,67,0,0,67
+M14 [Patient Services],14.6.2,Emergency - Burn,TOTAL,13,12,1,1,12,7,6,1,1,6,2,2,0,0,2,4,4,0,0,4
+M14 [Patient Services],14.6.3,Emergency - Obstetrics complications,TOTAL,10,9,1,1,9,1,0,1,1,0,5,5,0,0,5,4,4,0,0,4
+M14 [Patient Services],14.6.4,Emergency - Snake Bite,TOTAL,24,24,0,0,24,17,17,0,0,17,4,4,0,0,4,3,3,0,0,3
+M14 [Patient Services],14.6.5,Emergency - Acute Caridiac Emergencies,TOTAL,45,31,14,14,31,32,18,14,14,18,9,9,0,0,9,4,4,0,0,4
+M14 [Patient Services],14.6.7,Emergency - CVA ( Cerebovascular Disease),TOTAL,15,11,4,4,11,12,8,4,4,8,2,2,0,0,2,1,1,0,0,1
+M14 [Patient Services],14.7,Number of deaths occurring at Emergency Department,TOTAL,18,15,3,3,15,16,13,3,3,13,1,1,0,0,1,1,1,0,0,1
+M14 [Patient Services],14.8.1,Operation major (General and spinal anaesthesia),TOTAL,222,193,29,29,193,172,143,29,29,143,3,3,0,0,3,47,47,0,0,47
+M14 [Patient Services],14.8.2,"Out of Operation major, Gynecology- Hysterectomy surgeries",TOTAL,17,12,5,5,12,11,6,5,5,6,0,0,0,0,0,6,6,0,0,6
+M14 [Patient Services],14.8.3,"Major Surgeries excluding Obstetrics, Gynaecology and Opthalmology etc.",TOTAL,73,73,NA,NA,73,73,73,NA,NA,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M14 [Patient Services],14.8.4,Operation minor (No or local anaesthesia),TOTAL,624,604,20,60,564,331,311,20,60,271,150,150,0,0,150,143,143,0,0,143
+M14 [Patient Services],14.8.5,Number of post operative Surgical Site infection,TOTAL,0,0,NA,NA,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M14 [Patient Services],14.8.6,Number of blood units issued,TOTAL,99,99,0,0,99,94,94,0,0,94,0,0,0,0,0,5,5,0,0,5
+M14 [Patient Services],14.8.7,Number of blood transfusions done,TOTAL,100,99,1,1,99,95,94,1,1,94,0,0,0,0,0,5,5,0,0,5
+M14 [Patient Services],14.9.1,Inpatient Deaths - Male,TOTAL,25,22,3,3,22,22,19,3,3,19,3,3,0,0,3,0,0,0,0,0
+M14 [Patient Services],14.9.2,Inpatient Deaths - Female,TOTAL,12,12,0,0,12,9,9,0,0,9,2,2,0,0,2,1,1,0,0,1
+M14 [Patient Services],14.1,In-Patient Head Count at midnight,TOTAL,11888,11888,0,0,11888,7553,7553,0,0,7553,1588,1588,0,0,1588,2747,2747,0,0,2747
+M14 [Patient Services],14.11,Number of Admission in NBSU ( New Born Stabilisation Unit),TOTAL,28,28,0,0,28,0,0,0,0,0,8,8,0,0,8,20,20,0,0,20
+M14 [Patient Services],14.12.1,Special Newborn Care Unit (SNCU Admissions) - Inborn Male,TOTAL,32,31,1,1,31,25,24,1,1,24,0,0,0,0,0,7,7,0,0,7
+M14 [Patient Services],14.12.2,Special Newborn Care Unit (SNCU Admissions) - Inborn Female,TOTAL,29,29,0,0,29,24,24,0,0,24,0,0,0,0,0,5,5,0,0,5
+M14 [Patient Services],14.12.3,Outborn – Male,TOTAL,10,10,0,0,10,10,10,0,0,10,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.12.4,Outborn - Female,TOTAL,6,6,0,0,6,6,6,0,0,6,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.12.5,Number of newborns admitted in SNCU - referred by ASHA,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.13,Number of deaths occurring at SNCU,TOTAL,4,4,0,0,4,4,4,0,0,4,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.14.1,Number of children admitted in NRC,TOTAL,11,11,0,0,11,10,10,0,0,10,0,0,0,0,0,1,1,0,0,1
+M14 [Patient Services],14.14.2,Number of children discharged with target weight gain from the NRCs,TOTAL,5,5,0,0,5,5,5,0,0,5,0,0,0,0,0,0,0,0,0,0
+M14 [Patient Services],14.15,Number of Rogi Kalyan Samiti (RKS) meetings held,TOTAL,6,6,0,0,6,1,1,0,0,1,3,3,0,0,3,2,2,0,0,2
+M14 [Patient Services],14.16,Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach,TOTAL,250,250,NA,1,249,41,41,NA,1,40,82,82,NA,NA,82,127,127,NA,NA,127
+M14 [Patient Services],14.17,Stock out rate of essential Drugs,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M14 [Patient Services],14.18,Blood Units Issued on replacement (Family Donors to be considered as replacement donations),TOTAL,0,0,NA,NA,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M14 [Patient Services],14.19,Total number of blood units issued in year,TOTAL,1300,1300,NA,NA,1300,1300,1300,NA,NA,1300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M14 [Patient Services],14.2,Patient Satisfaction Score of the facility in percentage (from Mera Aspatal),TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M15 [Laboratory Testing],15.1,Number of Lab Tests done,TOTAL,38991,37636,1355,1355,37636,27961,26611,1350,1350,26611,4843,4838,5,5,4838,6187,6187,0,0,6187
+M15 [Laboratory Testing],15.2.1,Number of Hb tests conducted,TOTAL,7180,5972,1208,1295,5885,4658,3450,1208,1295,3363,1155,1155,0,0,1155,1367,1367,0,0,1367
+M15 [Laboratory Testing],15.2.2,"Out of the total number of Hb tests done, Number having Hb < 7 mg",TOTAL,732,713,19,19,713,647,628,19,19,628,25,25,0,0,25,60,60,0,0,60
+M15 [Laboratory Testing],15.3.1.a,Male HIV - Number Tested,TOTAL,979,943,36,48,931,316,280,36,48,268,265,265,0,0,265,398,398,0,0,398
+M15 [Laboratory Testing],15.3.1.b,Male HIV - Number Positive,TOTAL,3,3,0,0,3,2,2,0,0,2,0,0,0,0,0,1,1,0,0,1
+M15 [Laboratory Testing],15.3.2.a,Female Non ANC HIV - Number Tested,TOTAL,826,704,122,133,693,362,240,122,133,229,234,234,0,0,234,230,230,0,0,230
+M15 [Laboratory Testing],15.3.2.b,Female Non ANC HIV - Number Positive,TOTAL,3,3,0,0,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0
+M15 [Laboratory Testing],15.3.3.a,Number of pregnant women screened for HIV,TOTAL,827,781,46,80,747,247,201,46,80,167,260,260,0,0,260,320,320,0,0,320
+M15 [Laboratory Testing],15.3.3.b,"Out of the above, number screened positive",TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M15 [Laboratory Testing],15.3.3.c,"Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC)",TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M15 [Laboratory Testing],15.3.4.a,Number of Male STI/RTI attendees tested for syphilis,TOTAL,14,14,0,0,14,0,0,0,0,0,5,5,0,0,5,9,9,0,0,9
+M15 [Laboratory Testing],15.3.4.b,Number of Male STI/RTI attendees found sero Positive for syphilis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M15 [Laboratory Testing],15.3.4.c,Number of Female (Non ANC)STI/RTI attendees tested for syphilis,TOTAL,39,39,0,0,39,0,0,0,0,0,14,14,0,0,14,25,25,0,0,25
+M15 [Laboratory Testing],15.3.4.d,Number of Female (Non ANC) STI/RTI attendees found sero Positive for syphilis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M15 [Laboratory Testing],15.4.1,Widal tests - Number Tested,TOTAL,1531,1082,449,449,1082,705,256,449,449,256,342,342,0,0,342,484,484,0,0,484
+M15 [Laboratory Testing],15.4.2,Widal tests - Number Positive,TOTAL,61,57,4,4,57,4,0,4,4,0,38,38,0,0,38,19,19,0,0,19
+M15 [Laboratory Testing],15.5.1,Radiology - X-ray,TOTAL,2173,1690,483,483,1690,1699,1216,483,483,1216,322,322,0,0,322,152,152,0,0,152
+M15 [Laboratory Testing],15.5.2,Radiology - Ultrasonography (USG),TOTAL,433,0,433,433,0,433,NA,433,433,NA,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.1,Infant deaths within 24 hrs(1 to 23 Hrs) of birth,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.2.1,Infant Deaths up to 4 weeks due to Sepsis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.2.2,Infant Deaths up to 4 weeks due to Asphyxia,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.2.3,Infant Deaths up to 4 weeks due to Other causes,TOTAL,2,2,0,0,2,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1
+M16 [Details of deaths reported with probable causes:],16.3.1,Number of Infant Deaths (1 -12 months) due to Pneumonia,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.3.2,Number of Infant Deaths (1 -12 months) due to Diarrhoea,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.3.3,Number of Infant Deaths (1 -12 months) due to Fever related,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.3.4,Number of Infant Deaths (1 -12 months) due to Measles,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.3.5,Number of Infant Deaths (1 -12 months) due to Others,TOTAL,4,4,0,0,4,1,1,0,0,1,3,3,0,0,3,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.4.1,Number of Child Deaths (1 -5 years) due to Pneumonia,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.4.2,Number of Child Deaths (1 -5 years) due to Diarrhoea,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.4.3,Number of Child Deaths (1 -5 years) due to Fever related,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.4.4,Number of Child Deaths (1 -5 years) due to Measles,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.4.5,Number of Child Deaths (1 -5 years) due to Others,TOTAL,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.5.1,Number of Maternal Deaths due to Bleeding,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.5.2,Number of Maternal Deaths due to High fever,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.5.3,Number of Maternal Deaths due to Abortion,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.5.4,Number of Maternal Deaths due to Obstructed/prolonged labour,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.5.5,Number of Maternal Deaths due to Severe hypertesnion/fits,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.5.6,Number of Maternal Deaths due to Other Causes (including causes not known),TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.6,Total Facility Based Maternal Death Reviews (FBMDR) done,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.1,Number of Adolscent / Adult deaths due to Diarrhoeal diseases,TOTAL,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.2,Number of Adolscent / Adult deaths due to Tuberculosis,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.3,Number of Adolscent / Adult deaths due to Respiratory diseases including infections (other than TB),TOTAL,15,14,1,2,13,11,10,1,2,9,4,4,0,0,4,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.4,Number of Adolscent / Adult deaths due to Other Fever Related,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.5,Number of Adolscent / Adult deaths due to HIV/AIDS,TOTAL,2,2,0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.6,Number of Adolscent / Adult deaths due to Heart disease/Hypertension related,TOTAL,64,63,1,6,58,28,27,1,6,22,21,21,0,0,21,15,15,0,0,15
+M16 [Details of deaths reported with probable causes:],16.7.7,Number of Adolscent / Adult deaths due to Cancer,TOTAL,13,12,1,1,12,3,2,1,1,2,8,8,0,0,8,2,2,0,0,2
+M16 [Details of deaths reported with probable causes:],16.7.8,Number of Adolscent / Adult deaths due to Neurological disease including strokes,TOTAL,30,29,1,1,29,11,10,1,1,10,10,10,0,0,10,9,9,0,0,9
+M16 [Details of deaths reported with probable causes:],16.7.9,Number of Adolscent / Adult deaths due to Accidents/Burn cases,TOTAL,5,5,0,0,5,1,1,0,0,1,3,3,0,0,3,1,1,0,0,1
+M16 [Details of deaths reported with probable causes:],16.7.10,Number of Adolscent / Adult deaths due to Suicide,TOTAL,8,8,0,0,8,4,4,0,0,4,2,2,0,0,2,2,2,0,0,2
+M16 [Details of deaths reported with probable causes:],16.7.11,Number of Adolscent / Adult deaths due to Animal bites and stings,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.7.12,Number of Adolscent / Adult deaths due to Known Acute Disease,TOTAL,13,13,0,0,13,6,6,0,0,6,5,5,0,0,5,2,2,0,0,2
+M16 [Details of deaths reported with probable causes:],16.7.13,Number of Adolscent / Adult deaths due to Known Chronic Disease,TOTAL,30,30,0,2,28,10,10,0,2,8,17,17,0,0,17,3,3,0,0,3
+M16 [Details of deaths reported with probable causes:],16.7.14,Number of Adolscent / Adult deaths due to Causes not known,TOTAL,88,88,0,0,88,26,26,0,0,26,31,31,0,0,31,31,31,0,0,31
+M16 [Details of deaths reported with probable causes:],16.8.1,Number of Deaths due to Malaria- Plasmodium Vivax,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.8.2,Number of Deaths due to Malaria- Plasmodium Falciparum,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.8.3,Number of Deaths due to Kala Azar,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.8.4,Number of Deaths due to Dengue,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.8.5,Number of Deaths due to Acute Encephelitis Syndrome (AES),TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Details of deaths reported with probable causes:],16.8.6,Number of Deaths due to Japanese Encephalitis (JE),TOTAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
