@@ -44,8 +44,4 @@ regressor.compile(optimizer = 'adam', loss = 'MSE')
 # Fitting the ANN to the Training set
 #regressor.fit(X_train, y_train, batch_size = 1, nb_epoch = 100)
 
-from ann_visualizer.visualize import ann_viz
-
-ann_viz(regressor, title="Neural network")
-
 #y_pred = regressor.predict(X_test).astype(int) 
